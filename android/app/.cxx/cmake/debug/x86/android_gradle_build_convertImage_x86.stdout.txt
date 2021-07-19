@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\efin\camera_tutorial\android\app\.cxx\cmake\debug\x86'
+[1/1] Linking C shared library C:\efin\camera_tutorial\build\app\intermediates\cmake\debug\obj\x86\libconvertImage.so

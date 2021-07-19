@@ -1,0 +1,7 @@
+# ninja log v5
+0	1445	648121032	CMakeFiles/convertImage.dir/C_/efin/camera_tutorial/ios/Classes/converter.c.o	b6d7087d5a7dc985
+1446	3114	648121034	C:/efin/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so	bd8e32c2b9179031
+2	1183	648131942	C:/efin/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so	bd8e32c2b9179031
+3	194	648398195	C:/efin/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so	bd8e32c2b9179031
+4	93	648398466	C:/efin/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so	bd8e32c2b9179031
+4	1055	648417642	C:/efin/camera_tutorial/build/app/intermediates/cmake/debug/obj/x86/libconvertImage.so	bd8e32c2b9179031

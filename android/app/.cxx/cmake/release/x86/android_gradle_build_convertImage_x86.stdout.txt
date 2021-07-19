@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\efin\camera_tutorial\android\app\.cxx\cmake\release\x86'
+ninja: no work to do.
